@@ -1,4 +1,4 @@
-p {
+.player {
     font-family: 'helvetica neue', helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -11,4 +11,9 @@ p {
     padding: 3px 10px;
     display: inline-block;
     cursor:pointer;
+  }
+
+  #button {
+    position: fixed;
+    color: #FF0;
   }
